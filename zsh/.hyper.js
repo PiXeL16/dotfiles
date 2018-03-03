@@ -118,7 +118,9 @@ module.exports = {
   plugins: ['hyper-transparent',
             'hyper-materialshell',
             'gitrocket',
-            'hyper-statusline'
+            'hyper-statusline',
+            'hyper-tabs-enhanced',
+            'hyper-blink'
             ],
 
   // in development, you can create a directory under
